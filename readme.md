@@ -1,0 +1,1 @@
+Este proyecto tiene como objetivo desarrollar una aplicación colaborativa donde los usuarios puedan trabajar juntos en tiempo real.
